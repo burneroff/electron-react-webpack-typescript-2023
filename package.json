@@ -1,6 +1,6 @@
 {
-  "name": "electron-react-typescript-webpack-2023",
-  "productName": "ERWT Boilerplate",
+  "name": "ghosty",
+  "productName": "Ghosty Browser",
   "version": "7.8.0",
   "description": "Custom boilerplate for writing Desktop Applications using Electron, React, Webpack, TypeScript in 2023",
   "main": ".webpack/main",
